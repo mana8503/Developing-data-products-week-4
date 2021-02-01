@@ -2,7 +2,7 @@
 title: Mean and Standard Deviation affects on a Scatter Plot
 author: "Amanda Hughes"
 date: "2/1/2021"
-output: ioslides_presentation
+output: html_document
 runtime: shiny
 ---
 
