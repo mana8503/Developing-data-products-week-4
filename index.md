@@ -6,10 +6,6 @@ output: ioslides_presentation
 runtime: shiny
 ---
 
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = FALSE)
-```
-
 ## Mean
 
 - What is mean?
